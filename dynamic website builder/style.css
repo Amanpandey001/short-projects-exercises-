@@ -9,7 +9,7 @@
     max-width: 60vw;
     display: flex;
     flex-direction: row;
-    margin: auto;
+    margin: 5px auto;
     justify-content: start;
     /* align-items: center; */
 }
